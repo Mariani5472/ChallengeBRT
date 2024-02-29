@@ -1,0 +1,28 @@
+.linha {
+    margin: 3% 3% 3% 17%;
+
+}
+
+
+.img {
+    width: 7em;
+}
+
+.text {
+    margin: 3%;
+}
+
+.text_1 {
+    margin-left: 0.3%;
+}
+
+.btn {
+    background-color: #0CDAC3;
+
+}
+
+.btn:hover {
+    background-color: whitesmoke;
+    color: black;
+
+}
